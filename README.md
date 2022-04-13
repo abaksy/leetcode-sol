@@ -1,3 +1,3 @@
 # LeetCode Solutions
 
-Solved by Aronya Baksy, with comments
+Solved by Aronya Baksy
